@@ -1,0 +1,8 @@
+1 . open the compute at this location C:\Windows\System32\cmd.exe and  type cmd to open the terminal .
+2. cd ..
+3.then venv\Scripts\activate
+4. then cd final python file
+2 . /now need to activate virtualenv by using following command  venv\Scripts\activate .
+
+3  To run the code for any entry use this command  python file name . then enter 
+4.Enter the otp..... then enter
